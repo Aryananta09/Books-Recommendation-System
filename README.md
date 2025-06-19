@@ -80,7 +80,7 @@ Dari gambar diatas, dapat dilihat bahwa visualisasi grafik dengan bar chart ini 
 
 Berdasarkan visualisasi di atas, terlihat bahwa distribusi tahun publikasi buku sangat tidak merata, dengan mayoritas data terkonsentrasi pada rentang tahun modern, sementara sisanya tersebar secara ekstrem pada tahun-tahun tidak realistis. Karena adanya rentang tahun yang sangat lebar dan ketidakwajaran nilai pada sebagian besar data, fitur year_published kemungkinan tidak akan digunakan dalam model sistem rekomendasi.
 
-![Pie Chart Publisher](https://github.com/user-attachments/assets/7e331b37-dee0-473c-a011-3405316c3492)![image](https://github.com/user-attachments/assets/39e89ab7-2050-49fe-9cfa-bd6ff1a0d0c7)
+![Pie Chart Publisher](https://github.com/user-attachments/assets/39e89ab7-2050-49fe-9cfa-bd6ff1a0d0c7)
 
 
 Visualisasi pie chart di atas menunjukkan distribusi 10 publisher teratas dari total 16.807 penerbit dalam dataset. Harlequin menempati posisi teratas dengan proporsi sekitar 20,1%, disusul oleh Silhouette, Pocket, Ballantine Books, dan lainnya. Tingginya popularitas publisher ini dapat digunakan sebagai salah satu fitur dalam sistem rekomendasi, khususnya pada pendekatan content-based filtering, untuk mengidentifikasi kecenderungan pengguna terhadap penerbit tertentu.
